@@ -1,6 +1,8 @@
-# Stock-Prediction-APP
+# PredictQuipo-APP
 
-Stock price prediction. The data we used is from Yahoo Finance
+"Quipo is a cutting-edge web application that harnesses the power of machine learning to predict stock prices. Utilizing historical stock data and a range of predictive modeling techniques, including Linear Regression, Quipo delivers accurate and data-driven stock price predictions. The app's user-friendly interface provides users with easy-to-understand visualizations of the data, making it a valuable tool for both novice and experienced investors.
+
+Built using the latest technology, Quipo utilizes popular libraries such as Keras, Numpy, Pandas, and Streamlit to deliver a seamless and intuitive user experience. The app sources its data from the Yahoo Finance database, ensuring that users have access to the most up-to-date information. Whether you're a professional trader or just starting out in the world of investing, Quipo provides you with the insights and information you need to make informed investment decisions."
 
 ## Requirements
 
